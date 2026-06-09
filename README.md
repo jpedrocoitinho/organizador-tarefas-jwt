@@ -6,7 +6,6 @@ de regressão HTTP com Jest e Supertest.
 
 ## Funcionalidades
 
-- Cadastro e login de usuários.
 - Proteção de rotas com JWT.
 - Consulta do usuário autenticado.
 - Listagem e criação de tarefas.
